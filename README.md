@@ -10,6 +10,7 @@ Questions:
 Define Software Engineering:
 Software engineering is the application of engineering principles and techniques to the design, development, testing, and maintenance of software systems.
 
+
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
@@ -21,6 +22,7 @@ Software engineering differs from traditional programming in several ways:
 2. Software engineering follows a systematic approach, using various methodologies to ensure a structured development process. Traditional programming often involves an ad-hoc approach.
 3. Software engineering emphasizes quality assurance, testing, and validation to ensure the software meets user requirements and industry standards. Traditional programming may not prioritize quality to the same extent.
 4. Software engineering considers the long-term maintainability and scalability of software systems, whereas traditional programming might focus on a quick fix or a specific solution.
+   
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Agile vs. Waterfall Models:
 
@@ -66,6 +68,7 @@ Agile:
 Waterfall:
     - Small projects with simple requirements
     - Teams with limited experience or resources
+    
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
@@ -81,6 +84,7 @@ The requirements engineering process involves:
 5. Requirements management: Maintaining and updating requirements throughout the software development lifecycle.
 
 By following a structured requirements engineering process, software development teams can deliver software that meets user needs, reduces errors, and improves overall software quality.
+
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
@@ -98,6 +102,7 @@ Modularity improves maintainability and scalability in several ways:
 7. Improved understanding: Modular design helps developers understand the system better, as each module has a clear responsibility.
 
 By embracing modularity, software systems become more flexible, adaptable, and resilient, making it easier to maintain and scale them over time.
+
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
@@ -159,6 +164,7 @@ Challenges faced by software project managers include:
 8. Communication Breakdowns: Ensuring effective communication among team members and stakeholders.
 
 To overcome these challenges, software project managers must possess strong leadership, communication, and organizational skills, as well as the ability to adapt to changing project requirements and stakeholders' needs.
+
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 Ethical Considerations in Software Engineering:
